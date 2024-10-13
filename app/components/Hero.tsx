@@ -25,7 +25,7 @@ export function Hero(){
             </div>
           </div>
   
-          <div className="relative items-center w-full py-12 mx-auto mt-12">
+          {/* <div className="relative items-center w-full py-12 mx-auto mt-12">
             <svg
               className="absolute inset-0 -mt-24 blur-3xl"
               style={{ zIndex: -1 }}
@@ -86,7 +86,7 @@ export function Hero(){
               priority
               className="relative object-cover w-full border rounded-lg shadow-2xl lg:rounded-2xl"
             /> 
-          </div>
+          </div> */}
         </div>
       </section>
     )
